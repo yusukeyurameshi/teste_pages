@@ -1,0 +1,226 @@
+treinamento-prodesp
++-- .vscode
+|   \-- settings.json
++-- 0-pt-config-lab
+|   +-- images
+|   |   +-- address-information.png
+|   |   +-- agreement.png
+|   |   +-- auth.png
+|   |   +-- auth-app.png
+|   |   +-- auth-done.png
+|   |   +-- cell-auth.png
+|   |   +-- config-trial.png
+|   |   +-- default-acess.png
+|   |   +-- dif-email.png
+|   |   +-- forbidden.png
+|   |   +-- FREE_TRIAL_TEST.png
+|   |   +-- free-tier.png
+|   |   +-- get-started.png
+|   |   +-- inicial-cloud.png
+|   |   +-- oci-panel.png
+|   |   +-- password.png
+|   |   +-- payment.png
+|   |   +-- setting-account.png
+|   |   +-- verify-account.png
+|   |   \-- verify-email.png
+|   +-- 0-pt-config-lab.md
+|   \-- 0-pt-config-lab-credit-card.md
++-- 2-23ai-database
+|   +-- images
+|   |   +-- apex.png
+|   |   +-- apex-ai-cred.png
+|   |   +-- apex-password.png
+|   |   +-- api-keys.png
+|   |   +-- app-builder.png
+|   |   +-- app-builder-api.png
+|   |   +-- assistente-ai.png
+|   |   +-- autonomous-acess.png
+|   |   +-- cohere-chat.png
+|   |   +-- compartment-root.png
+|   |   +-- config-tenancy.png
+|   |   +-- create-23ai.png
+|   |   +-- create-autonomous.png
+|   |   +-- create-workspace.png
+|   |   +-- database-actions.png
+|   |   +-- dataprev-site.png
+|   |   +-- execute-code.png
+|   |   +-- existing-schema.png
+|   |   +-- f102.png
+|   |   +-- file-upload.png
+|   |   +-- green-adw.png
+|   |   +-- import.png
+|   |   +-- import-next.png
+|   |   +-- install.png
+|   |   +-- login.png
+|   |   +-- manage-instance.png
+|   |   +-- manage-region.png
+|   |   +-- ocid-api-apex.png
+|   |   +-- ocid-api-oci.png
+|   |   +-- ocid-compartment.png
+|   |   +-- prodespcartaservicos.png
+|   |   +-- question.png
+|   |   +-- rest-data-resources.png
+|   |   +-- row-created.png
+|   |   +-- run-application.png
+|   |   +-- secure-acess.png
+|   |   +-- semantic.png
+|   |   +-- shared-components.png
+|   |   +-- sign-out.png
+|   |   +-- subscribe-region.png
+|   |   +-- supporting-objects.png
+|   |   +-- tenancy-details.png
+|   |   +-- tenancy-ocid.png
+|   |   +-- tool-config.png
+|   |   +-- uploader.png
+|   |   +-- user-settings.png
+|   |   +-- validate-region.png
+|   |   +-- web-credentials.png
+|   |   +-- workspace-utilities.png
+|   |   \-- yellow-adw.png
+|   \-- 2-23ai-database.md
++-- 4-agents-generative-ai
+|   +-- images
+|   |   +-- agents.png
+|   |   +-- ai-agent.png
+|   |   +-- bucket-pdf.png
+|   |   +-- buckets.png
+|   |   +-- citations.png
+|   |   +-- close.png
+|   |   +-- compartment-root.png
+|   |   +-- configuration-agents.png
+|   |   +-- create-agent.png
+|   |   +-- create-buckets.png
+|   |   +-- create-knowledge.png
+|   |   +-- creating-knowledge-base.png
+|   |   +-- data-source.png
+|   |   +-- embeddings.png
+|   |   +-- embeddings-response.png
+|   |   +-- endpoints.png
+|   |   +-- genai-playground-acess.png
+|   |   +-- informations-knowledge.png
+|   |   +-- interface-agent.png
+|   |   +-- knowledge-menu.png
+|   |   +-- launch-chat.png
+|   |   +-- llama3.png
+|   |   +-- menu-agents.png
+|   |   +-- name-bucket.png
+|   |   +-- questions-agent.png
+|   |   +-- search-genai.png
+|   |   +-- sucess-messages.png
+|   |   +-- sucess-messages-agent.png
+|   |   +-- upload-pdf.png
+|   |   \-- validate-region.png
+|   \-- 4-agents-generative-ai.md
++-- 5-analytics-cloud
+|   +-- images
+|   |   +-- AcessoAnalytics.png
+|   |   +-- AcessoOAC.png
+|   |   +-- AcessoOAC1.png
+|   |   +-- AcessoOAC2.png
+|   |   +-- AlterarViz.png
+|   |   +-- AlterarViz2.png
+|   |   +-- Autoinsight1.png
+|   |   +-- Autoinsight2.png
+|   |   +-- Autoinsight3.png
+|   |   +-- Autoinsight4.png
+|   |   +-- Autoinsight5.png
+|   |   +-- Barra1.png
+|   |   +-- Calc1.png
+|   |   +-- Calc10.png
+|   |   +-- Calc11.png
+|   |   +-- Calc12.png
+|   |   +-- Calc13.png
+|   |   +-- Calc14.png
+|   |   +-- Calc15.png
+|   |   +-- Calc16.png
+|   |   +-- Calc2.png
+|   |   +-- Calc3.png
+|   |   +-- Calc4.png
+|   |   +-- Calc6.png
+|   |   +-- Calc7.png
+|   |   +-- Cascata.png
+|   |   +-- Cascata2.png
+|   |   +-- CreateOAC.png
+|   |   +-- CreateOAC1.png
+|   |   +-- CreateOAC2.png
+|   |   +-- CreateOAC3.png
+|   |   +-- Dataset.png
+|   |   +-- EditarWorkbook.png
+|   |   +-- Explain1.png
+|   |   +-- Explain10.png
+|   |   +-- Explain11.png
+|   |   +-- Explain12.png
+|   |   +-- Explain13.png
+|   |   +-- Explain14.png
+|   |   +-- Explain2.png
+|   |   +-- Explain3.png
+|   |   +-- Explain4.png
+|   |   +-- Explain5.png
+|   |   +-- Explain6.png
+|   |   +-- Explain7.png
+|   |   +-- Filtro.png
+|   |   +-- Filtro1.png
+|   |   +-- Filtro10.png
+|   |   +-- Filtro11.png
+|   |   +-- Filtro12.png
+|   |   +-- Filtro13.png
+|   |   +-- Filtro15.png
+|   |   +-- Filtro16.png
+|   |   +-- Geral.png
+|   |   +-- Homepage_Catalog.png
+|   |   +-- Import1.png
+|   |   +-- Import2.png
+|   |   +-- Import3.png
+|   |   +-- Import4.png
+|   |   +-- OCI-Analytics.png
+|   |   +-- Ordenar1.png
+|   |   +-- Ordenar2.png
+|   |   +-- Ordenar3.png
+|   |   +-- Outliers.png
+|   |   +-- Outliers2.png
+|   |   +-- Perfil.png
+|   |   +-- Perfil2.png
+|   |   +-- Previsao.png
+|   |   +-- Previsao0.png
+|   |   +-- Previsao2.png
+|   |   +-- Previsao3.png
+|   |   +-- Previsao4.png
+|   |   +-- Prop1.png
+|   |   +-- Prop2.png
+|   |   +-- Referencia1.png
+|   |   +-- Referencia2.png
+|   |   +-- Referencia3.png
+|   |   +-- Referencia4.png
+|   |   +-- Save.png
+|   |   +-- Save2.png
+|   |   +-- Save3.png
+|   |   +-- Tag1.png
+|   |   +-- Tag2.png
+|   |   +-- Tag3.png
+|   |   +-- Tag4.png
+|   |   +-- Tela2.png
+|   |   +-- TelaGeral.png
+|   |   +-- Titulo.png
+|   |   +-- Titulo2.png
+|   |   +-- Workbook1.png
+|   |   +-- Workbook2.png
+|   |   +-- Workbook3.png
+|   |   +-- Workbook4.png
+|   |   +-- Workbook5.png
+|   |   \-- Workbook6.png
+|   \-- 5-analytics-cloud.md
++-- workshops
+|   +-- ocw24
+|   |   +-- index.html
+|   |   \-- manifest.json
+|   +-- sandbox
+|   |   +-- index.html
+|   |   \-- manifest.json
+|   \-- tenancy
+|       +-- index.html
+|       \-- manifest.json
++-- .gitattributes
++-- estrutura-arvore.txt
++-- index.html
++-- manifest.json
+\-- README.md
